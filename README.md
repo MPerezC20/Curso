@@ -1,2 +1,1 @@
-# Curso
-Practica de pruebas
+Este es un repostiorio de prueba total.
